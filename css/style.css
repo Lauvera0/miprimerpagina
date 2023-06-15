@@ -1,0 +1,16 @@
+*{
+    font-family:verdana,geneva,sans-serif; font-size:18px;width:900px;;
+}
+h1{
+    font-size:37px; line-height:46px;font-family:tahoma,helvetica,sans-serif; color:#000000 ;
+}
+.grupoa{
+    font-size:25px; line-height:38px;font-family:tahoma,helvetica,sans-serif;
+}
+img{
+    max-width: 50%;
+ max-height: 100%;
+}
+p{
+    font-size:18px;line-height:27px;color:#333;
+}
